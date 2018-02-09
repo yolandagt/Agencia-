@@ -1,2 +1,7 @@
 body{background-color: red;}
-.cabeza{text-align: center;}
+.jumbotron text-center{text-align: center;}
+.carousel-inner img {
+      width: 800px;
+      height: 500px%;
+
+  }
